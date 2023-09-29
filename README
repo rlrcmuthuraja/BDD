@@ -1,0 +1,15 @@
+
+Author: Muthuraja Ramachandran
+
+# BDD Automation using Cypress, Cucumber Javascrupt and Page Object Model
+
+
+# Run : npm install npx -g
+# Run : npm install cypress  save-dev
+# Run : npm install  save-dev cypress-cucumber-preprocessor
+# Run : npm install
+# To open the cypress runner with UI:  npx cypress open
+# You can trigger it from the UI  to the targetted browser
+# To run the tests in headless mode: npx cypress run
+
+# Main Goal of this project is to demonstrate the BDD automation using Cypress, Cucumber.
