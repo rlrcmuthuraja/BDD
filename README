@@ -12,4 +12,4 @@ Author: Muthuraja Ramachandran
 # You can trigger it from the UI  to the targetted browser
 # To run the tests in headless mode: npx cypress run
 
-# Main Goal of this project is to demonstrate the BDD automation using Cypress, Cucumber.
+# Aim of this sample is to connect Cypress and Cucumber.
